@@ -7,7 +7,6 @@ import { animal } from "./data.js";
 // let buah = document.getElementById('buah').innerHTML = fruits[0].fruitName
 
 fruits.forEach(function (data) {
-
     const div = document.createElement('div');
     div.className = "data-buah";
 
