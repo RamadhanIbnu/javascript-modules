@@ -8,8 +8,3 @@ export default class karyawan{
         return `hello ${this.nama} id kamu adalah ${this.id}`
     }
 }
-
-
-// export default function sayHi(user){
-//     alert(`hallo, ${user}!`);
-// }
